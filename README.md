@@ -1,8 +1,5 @@
 <!-- Powitanie z animacją -->
 # Cześć, tu Hubert Skwarliński <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-**Data Scientist • AI Developer • ML Engineer**
-
 ---
 
 <!-- Pasek animowany -->
