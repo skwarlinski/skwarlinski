@@ -17,6 +17,7 @@ Jestem pasjonatem Data Science, sztucznej inteligencji i uczenia maszynowego. Mo
 ## 💼 Portfolio  
 Moje portfolio znajdziesz tutaj:  
 [skwarlinski.github.io/portfolio](https://skwarlinski.github.io/portfolio/)  
+
 Opisuję tam swoją ścieżkę edukacyjną, doświadczenie, certyfikaty i szczegółowe realizacje.
 
 ---
@@ -37,11 +38,11 @@ Opisuję tam swoją ścieżkę edukacyjną, doświadczenie, certyfikaty i szczeg
 
 ## 📜 Edukacja & Certyfikaty
 
-- Technik informatyk — w trakcie nauki  
-- Zaliczone: INF.02 – Administracja systemów komputerowych i lokalnych sieci  
-- W trakcie: INF.03 – Tworzenie i administrowanie stronami i bazami danych  
-- Planowana matura: **2026**  
-- Ukończony kurs Data Science AI/ML oraz zaawansowany Masterclass (łącznie ok. 11 miesięcy nauki)
+- **Technik informatyk** — w trakcie nauki  
+- Zaliczone: INF.02** – Administracja systemów komputerowych i lokalnych sieci  
+- W trakcie: INF.03** – Tworzenie i administrowanie stronami i bazami danych  
+- Planowana matura: **2026** 
+- Ukończony kurs **Data Science AI/ML** oraz zaawansowany **Masterclass** (łącznie ok. 11 miesięcy nauki)
 
 ---
 
@@ -61,7 +62,7 @@ Zainteresowany rozwijaniem systemów AI, wdrożeniami ML w biznesie oraz tworzen
 Szukasz eksperta do projektu AI/ML? <br>
 Masz ciekawe wyzwanie analityczne?
 
-Napisz do mnie! Chętnie omówię możliwości współpracy.
+**Napisz do mnie!** Chętnie omówię możliwości współpracy.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skwarlinski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
