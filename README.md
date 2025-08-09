@@ -61,9 +61,14 @@ Zainteresowany rozwijaniem systemów AI, wdrożeniami ML w biznesie oraz tworzen
 
 ## 📬 Kontakt
 
+Szukasz eksperta do projektu AI/ML?
+Masz ciekawe wyzwanie analityczne?
+
+Napisz do mnie! Chętnie omówię możliwości współpracy.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/skwarlinski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://skwarlinski.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:skwarlinskihubert@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
