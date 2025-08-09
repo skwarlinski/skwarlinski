@@ -1,5 +1,5 @@
 <!-- Powitanie z animacją -->
-# Cześć, tu Hubert Skwarliński 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Cześć, tu Hubert Skwarliński <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 **Data Scientist • AI Developer • ML Engineer**
 
@@ -12,49 +12,19 @@
 
 ---
 
-##  O mnie  
+## 🙋‍♂️ O mnie  
 Jestem pasjonatem Data Science, sztucznej inteligencji i uczenia maszynowego. Moje projekty łączą zaawansowane algorytmy z praktycznymi zastosowaniami biznesowymi. Wierzę, że najlepsze rozwiązania AI to te, które rozwiązują realne problemy, są intuicyjne w użyciu i dostarczają mierzalnej wartości.
 
 ---
 
-##  GitHub  
-[Zajrzyj na mój profil GitHub](https://github.com/skwarlinski) – znajdziesz tam moje projekty, kod źródłowy oraz przykłady wdrożeń.
-
----
-
-##  Portfolio  
-Moje portfolio (zorganizowane za pomocą MkDocs) znajdziesz tutaj:  
+## 💼 Portfolio  
+Moje portfolio znajdziesz tutaj:  
 [skwarlinski.github.io/portfolio](https://skwarlinski.github.io/portfolio/)  
 Opisuję tam swoją ścieżkę edukacyjną, doświadczenie, certyfikaty i szczegółowe realizacje.
 
 ---
 
-##  Projekty
-
-### Zaplanuj.to – Generator kampanii marketingowych  
-- Pełna automatyzacja: od danych do gotowej kampanii w **<30 s**  
-- Wysoka dokładność segmentacji: **Silhouette Score > 0.6**  
-- Skalowalność: obsługa **10 000+ rekordów** w czasie rzeczywistym  
-- Intuicyjny interfejs bez krzywej uczenia się  
-- **Technologie**: Python · Streamlit · PyCaret · Matplotlib · Pandas · OpenAI API · GitHub · Conda
-
-### Chat AI – Inteligentny asystent AI  
-- Monitorowanie kosztów tokenów w czasie rzeczywistym  
-- Zarządzanie konwersacjami i ich zapisywanie w formacie JSON  
-- Integracja z Langfuse do śledzenia wywołań OpenAI API  
-- Możliwość personalizacji promptów systemowych  
-- **Technologie**: Python · Streamlit · OpenAI API · Langfuse · GitHub · Conda
-
-### AI Półmaraton – Predykcja czasu ukończenia  
-- Model ML do prognozowania czasu półmaratonu na podstawie wieku, płci i wyniku 5 km  
-- Wdrożenie produkcyjne na Digital Ocean App Platform z automatycznym skalowaniem  
-- Monitoring wydajności i dokładności za pomocą Langfuse  
-- Automatyczny pipeline od treningu modelu po aplikację Streamlit  
-- **Technologie**: Python · Streamlit · OpenAI API · Langfuse · GitHub · NumPy · PyCaret · Scikit-learn · Digital Ocean · AWS S3 · Conda
-
----
-
-##  Umiejętności techniczne
+## 🔧 Umiejętności techniczne
 
 | Kategoria              | Technologie                                                                 |
 |------------------------|------------------------------------------------------------------------------|
@@ -68,7 +38,7 @@ Opisuję tam swoją ścieżkę edukacyjną, doświadczenie, certyfikaty i szczeg
 
 ---
 
-##  Edukacja & Certyfikaty
+## 📜 Edukacja & Certyfikaty
 
 - Technik informatyk — w trakcie nauki  
 - Zaliczone: INF.02 – Administracja systemów komputerowych i lokalnych sieci  
@@ -78,7 +48,7 @@ Opisuję tam swoją ścieżkę edukacyjną, doświadczenie, certyfikaty i szczeg
 
 ---
 
-##  Otwarty na współpracę
+## 🔍 Otwarty na współpracę
 
 Poszukuję:
 - …stałych ról w obszarze Data Science / AI  
@@ -89,7 +59,7 @@ Zainteresowany rozwijaniem systemów AI, wdrożeniami ML w biznesie oraz tworzen
 
 ---
 
-##  Kontakt & Media Społecznościowe
+## 📬 Kontakt
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skwarlinski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
