@@ -71,15 +71,6 @@ Masz ciekawe wyzwanie analityczne?
 
 ---
 
-## 📊 Statystyki GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skwarlinski&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skwarlinski&theme=tokyonight" height="150"/>
-</p>
-
----
-
 > _„Przekształcam dane w insights, insights w decyzje, a decyzje w sukces biznesowy.”_
 
 ---
