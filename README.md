@@ -1,5 +1,3 @@
----
-
 <!-- Pasek animowany -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Turning+Data+into+Decisions" />
@@ -41,6 +39,7 @@ There I describe my educational path, experience, certificates and detailed impl
 - In progress: INF.03 – Development and administration of websites and databases
 - Planned graduation: 2026
 - Completed Data Science AI/ML course and advanced Masterclass (approx. 11 months of total learning)
+- Completed Google's "Umiejętności Jutra AI" course (5 weeks of learning)
 
 ---
 
