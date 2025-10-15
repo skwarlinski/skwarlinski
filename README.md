@@ -1,5 +1,3 @@
-<!-- Powitanie z animacją -->
-# Cześć, tu Hubert Skwarliński <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ---
 
 <!-- Pasek animowany -->
@@ -9,69 +7,65 @@
 
 ---
 
-## 🙋‍♂️ O mnie  
-Jestem pasjonatem Data Science, sztucznej inteligencji i uczenia maszynowego. Moje projekty łączą zaawansowane algorytmy z praktycznymi zastosowaniami biznesowymi. Wierzę, że najlepsze rozwiązania AI to te, które rozwiązują realne problemy, są intuicyjne w użyciu i dostarczają mierzalnej wartości.
+## 🙋‍♂️ About me  
+I'm passionate about data science, artificial intelligence, and machine learning. My projects combine advanced algorithms with practical business applications. I believe the best AI solutions are those that solve real-world problems, are intuitive to use, and deliver measurable value.
 
 ---
 
 ## 💼 Portfolio  
-Moje portfolio znajdziesz tutaj:  
+You can find my portfolio here:  
 [skwarlinski.github.io/portfolio](https://skwarlinski.github.io/portfolio/)  
 
-Opisuję tam swoją ścieżkę edukacyjną, doświadczenie, certyfikaty i szczegółowe realizacje.
+There I describe my educational path, experience, certificates and detailed implementations.
 
 ---
 
-## 🔧 Umiejętności techniczne
+## 🔧 Technical skills
 
-| Kategoria              | Technologie                                                                 |
-|------------------------|------------------------------------------------------------------------------|
-| **Języki programowania** | Python                                                                     |
-| **AI / ML**              | OpenAI, Anthropic, PyCaret, Scikit-learn                                  |
-| **Analiza danych / Wizualizacja** | Pandas, NumPy, Matplotlib, Plotly, Seaborn, Streamlit       |
-| **Bazy danych**           | SQL (MySQL), Qdrant (Vector DB)                                          |
-| **Cloud & DevOps**       | AWS S3, Digital Ocean, GitHub Actions                                     |
-| **Monitoring & Analytics** | Langfuse, MLflow                                                        |
-| **Inne narzędzia**       | Jupyter Notebook, GitHub, Conda                                           |
-
----
-
-## 📜 Edukacja & Certyfikaty
-
-- **Technik informatyk** — w trakcie nauki  
-- Zaliczone: INF.02** – Administracja systemów komputerowych i lokalnych sieci  
-- W trakcie: INF.03** – Tworzenie i administrowanie stronami i bazami danych  
-- Planowana matura: **2026** 
-- Ukończony kurs **Data Science AI/ML** oraz zaawansowany **Masterclass** (łącznie ok. 11 miesięcy nauki)
+| **Category**               | **Technologies**                                                         |
+|-----------------------------|--------------------------------------------------------------------------|
+| **Programming Languages**   | Python                                                                   |
+| **AI / ML**                 | OpenAI, Anthropic, PyCaret, Scikit-learn                                 |
+| **Data Analysis / Visualization** | Pandas, NumPy, Matplotlib, Plotly, Seaborn, Streamlit          |
+| **Databases**               | SQL (MySQL), Qdrant (Vector DB)                                          |
+| **Cloud & DevOps**          | AWS S3, Digital Ocean, GitHub Actions                                    |
+| **Monitoring & Analytics**  | Langfuse, MLflow                                                         |
+| **Other Tools**             | Jupyter Notebook, GitHub, Conda                                          |
 
 ---
 
-## 🔍 Otwarty na współpracę
+## 📜 Education and Certificates
 
-Poszukuję:
-- …stałych ról w obszarze Data Science / AI  
-- …projektów freelancerskich związanych z ML/AI  
-- …współpracy przy tworzeniu innowacyjnych, AI-napędzanych rozwiązań  
-
-Zainteresowany rozwijaniem systemów AI, wdrożeniami ML w biznesie oraz tworzeniem aplikacji opartych na modelach LLM.
+- IT Technician — currently in training
+- Completed: INF.02 – Administration of computer systems and local networks
+- In progress: INF.03 – Development and administration of websites and databases
+- Planned graduation: 2026
+- Completed Data Science AI/ML course and advanced Masterclass (approx. 11 months of total learning)
 
 ---
 
-## 📬 Kontakt
+## 🔍 Open to cooperation
 
-Szukasz eksperta do projektu AI/ML? <br>
-Masz ciekawe wyzwanie analityczne?
+I'm looking for:
+- ...permanent roles in Data Science/AI  
+- ...freelance projects related to ML/AI  
+- ...collaboration in creating innovative, AI-driven solutions  
 
-**Napisz do mnie!** Chętnie omówię możliwości współpracy.
+Interested in developing AI systems, implementing ML in business and creating applications based on LLM models.
+
+---
+
+## 📬 Contact
+
+Looking for an expert for an AI/ML project? <br>
+Have an interesting analytical challenge?
+
+**Contact me!** I'd be happy to discuss possible collaborations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skwarlinski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:skwarlinskihubert@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-> _„Przekształcam dane w insights, insights w decyzje, a decyzje w sukces biznesowy.”_
 
 ---
 
